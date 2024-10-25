@@ -1,13 +1,6 @@
-# Sample Hardhat Project
+# ProposalVote Factory
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+## Deployed Contract
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.ts
-```
+- Network: Base Sepolia Testnet
+- Contract Address: `0x12fD188c397B84B922B9C3857ccBC2fD973bf716` ([View on BaseScan](https://sepolia.basescan.org/address/0x12fD188c397B84B922B9C3857ccBC2fD973bf716))
